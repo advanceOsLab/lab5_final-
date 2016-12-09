@@ -2,9 +2,12 @@
 
 Heyy!!! 
 
-```f
+```c
 function test() {
-  console.log("notice the blank line before this function?");
+if () ;
+else 
+
+printf (" example \n ");
 }
 ```
 Bye
