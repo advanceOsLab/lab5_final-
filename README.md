@@ -3,11 +3,12 @@
 Heyy!!! 
 
 ```c
+int i; 
 function test() {
 if () ;
 else 
 
-printf (" example \n ");
+printf (" example \n ", x);
 }
 ```
 Bye
